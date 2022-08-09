@@ -1,4 +1,4 @@
-# Affine Client
+# BeforeMan
 
 beforeman is a client for [hoppscotch](https://github.com/hoppscotch/hoppscotch.git) based on [Tauri](https://tauri.app/)
 
